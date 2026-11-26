@@ -1,4 +1,4 @@
-# The Sanders/Hohman Family Cookbook — 1st Addition
+# The Sanders Family Cookbook — 1st Addition
 
 **[Open the Live Family Cookbook](https://kurtsanders.github.io/Sanders-Family-Cookbook/)**
 
